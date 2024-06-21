@@ -3,7 +3,7 @@
 <!ENTITY name       "composerize">
 <!ENTITY launch     "Settings/Composerize">
 <!ENTITY author     "llalon">
-<!ENTITY version "2024.06.21-hotfix.2">
+<!ENTITY version "2024.06.21-hotfix.3">
 <!ENTITY branch "main">
 <!ENTITY file       "&name;-&version;.txz">
 <!ENTITY github     "elahd/unraid-plugin-composerize">
@@ -11,7 +11,7 @@
 <!ENTITY releaseURL "https://raw.githubusercontent.com/&github;/&branch;">
 <!ENTITY pluginURL  "&releaseURL;/archive/&file;">
 <!ENTITY pluginURL  "&releaseURL;/plugin/&name;.plg">
-<!ENTITY md5 "11b23fde188667e8e29a044b828d4378">
+<!ENTITY md5 "ac458a8cc272db97099e6a55dd6cd0fa">
 ]>
 
 <PLUGIN name="&name;" author="&author;" version="&version;" launch="&launch;" pluginURL="&pluginURL;" support="&repo;">

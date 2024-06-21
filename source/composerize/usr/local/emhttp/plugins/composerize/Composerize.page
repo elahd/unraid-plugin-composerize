@@ -21,7 +21,7 @@ include $docroot . $pluginRoot . '/include/composerize.php';
         const submitButton = $('#submit-button');
 
         templateSelect.on('change', function () {
-            const value = this.value;
+            const value = this.value.replace(/['"]+/g, '');
             const compose = value ? composerize(value, null, 'latest') : "";
             submitButton.prop("disabled", value == false);
             composeText.val(compose);
