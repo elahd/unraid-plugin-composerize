@@ -2,3 +2,4 @@ gnu-sed
 gnu-tar
 md5sha1sum
 xz
+dos2unix

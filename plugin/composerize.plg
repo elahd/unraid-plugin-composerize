@@ -11,7 +11,7 @@
 <!ENTITY releaseURL "https://raw.githubusercontent.com/&github;/&branch;">
 <!ENTITY pluginURL  "&releaseURL;/archive/&file;">
 <!ENTITY pluginURL  "&releaseURL;/plugin/&name;.plg">
-<!ENTITY md5 "9a1ca7cef9f3fb0779faa9d8eecdfe5c">
+<!ENTITY md5 "54d98abea9c48ddb0a6e4895264b2e25">
 ]>
 
 <PLUGIN name="&name;" author="&author;" version="&version;" launch="&launch;" pluginURL="&pluginURL;" support="&repo;">
