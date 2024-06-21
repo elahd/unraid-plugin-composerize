@@ -1,7 +1,7 @@
 <?php
 
 const DOCKER_TEMPLATE_DIRECTORY = '/boot/config/plugins/dockerMan/templates-user/';
-const COMPOSE_DIRECTORY = '/boot/config/plugins/compose.manager/projects/';
+const COMPOSE_DIRECTORY = '/mnt/user/appdata/compose-manager/projects/';
 
 $docroot = $docroot ?: $_SERVER['DOCUMENT_ROOT'] ?: '/usr/local/emhttp';
 
