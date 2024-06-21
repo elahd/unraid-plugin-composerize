@@ -4,7 +4,7 @@
 <!ENTITY launch     "Settings/Composerize">
 <!ENTITY author     "llalon">
 <!ENTITY version "2024.06.21">
-<!ENTITY branch "master">
+<!ENTITY branch "main">
 <!ENTITY file       "&name;-&version;.txz">
 <!ENTITY github     "elahd/unraid-plugin-composerize">
 <!ENTITY repo       "https://github.com/&github;">
