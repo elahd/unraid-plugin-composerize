@@ -22,7 +22,7 @@ include $docroot . $pluginRoot . '/include/composerize.php';
 
         templateSelect.on('change', function () {
             const value = this.value;
-            const compose = value ? composerize(value) : "";
+            const compose = value ? composerize(value, null, 'latest') : "";
             submitButton.prop("disabled", value == false);
             composeText.val(compose);
 
