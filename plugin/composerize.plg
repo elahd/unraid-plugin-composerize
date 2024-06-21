@@ -6,7 +6,7 @@
 <!ENTITY version "20231029">
 <!ENTITY branch "main">
 <!ENTITY file       "&name;-&version;.txz">
-<!ENTITY github     "llalon/unraid-plugin-composerize">
+<!ENTITY github     "elahd/unraid-plugin-composerize">
 <!ENTITY repo       "https://github.com/&github;">
 <!ENTITY releaseURL "https://raw.githubusercontent.com/&github;/&branch;">
 <!ENTITY pluginURL  "&releaseURL;/archive/&file;">
